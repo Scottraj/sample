@@ -1,0 +1,21 @@
+#t01{
+    color: rgb(80,40, 90);
+    text-align: center;
+}
+div{
+    font-size: 18px;
+}
+header{
+    text-align: center;
+}
+#t001{
+    text-align: center;
+}
+.contact{
+    text-align: center;
+}
+body{
+    background-image: url(https://img.freepik.com/free-vector/vintage-ornamental-flowers-background_52683-28040.jpg?size=626&ext=jpg);
+    
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+}
